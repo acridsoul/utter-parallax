@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Sunday Service",
+    "date": "2025-04-14",
+    "content": "Join us this Sunday at 10am for our weekly service. Special guest speaker will be present."
+  },
+  {
+    "id": 2,
+    "title": "Bible Study",
+    "date": "2025-04-16",
+    "content": "Wednesday Bible study group meets at 7pm in the main hall. All are welcome."
+  },
+  {
+    "id": 3,
+    "title": "Youth Group",
+    "date": "2025-04-16",
+    "content": "Friday youth group meeting at 6pm. Pizza will be served!"
+  },
+  {
+    "id": 4,
+    "title": "Community Outreach",
+    "date": "2025-04-20",
+    "content": "Volunteers needed for Saturday community outreach program from 9am-12pm."
+  },
+  {
+    "id": 5,
+    "title": "Choir Practice",
+    "date": "2025-04-17",
+    "content": "Choir members should attend Thursday practice at 5:30pm in preparation for Sunday."
+  },
+  {
+    "id": 6,
+    "title": "Men's Breakfast",
+    "date": "2025-04-17",
+    "content": "Men's fellowship breakfast at 8am at the church cafe."
+  },
+  {
+    "id": 7,
+    "title": "Women's Bible Study",
+    "date": "2025-04-17",
+    "content": "Thursday morning women's Bible study at 10am in room 102."
+  },
+  {
+    "id": 8,
+    "title": "Prayer Meeting",
+    "date": "2025-04-14",
+    "content": "Evening prayer meeting at 7pm in the chapel."
+  },
+  {
+    "id": 9,
+    "title": "Children's Ministry",
+    "date": "2025-04-20",
+    "content": "Sunday School teachers meeting at 11:30am after service."
+  },
+  {
+    "id": 10,
+    "title": "Mission Trip Info Session",
+    "date": "2025-04-20",
+    "content": "Learn about our summer mission trip opportunities at 1pm in the fellowship hall."
+  },
+  {
+    "id": 11,
+    "title": "Easter Service",
+    "date": "2025-04-20",
+    "content": "Special Easter Sunday service at 9am with communion."
+  },
+  {
+    "id": 12,
+    "title": "Potluck Dinner",
+    "date": "2025-04-16",
+    "content": "Wednesday night potluck dinner after Bible study. Bring a dish to share!"
+  }
+]

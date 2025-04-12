@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Church Bulletin",
+    "description": "Weekly church bulletin with announcements and events",
+    "filename": "sample1.pdf",
+    "size": "1.2 MB",
+    "date": "2025-04-13"
+  },
+  {
+    "title": "Sermon Notes",
+    "description": "Complete notes from last Sunday's sermon",
+    "filename": "sermon-notes.pdf", 
+    "size": "0.8 MB",
+    "date": "2025-04-06"
+  },
+  {
+    "title": "Annual Report",
+    "description": "Church's financial and ministry report for 2024",
+    "filename": "annual-report.pdf",
+    "size": "3.5 MB",
+    "date": "2025-01-15"
+  }
+]

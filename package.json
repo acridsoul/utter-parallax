@@ -9,6 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.6.1"
+    "@astrojs/db": "^0.14.10",
+    "astro": "^5.6.1",
+    "sqlite": "^5.1.1",
+    "sqlite-async": "^1.2.0"
   }
 }
