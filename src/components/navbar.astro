@@ -1,0 +1,69 @@
+---
+// Navbar component with 4 links
+---
+
+<style is:global>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+</style>
+
+<div class="nav-container">
+  <nav class="navbar">
+    <ul class="nav-list">
+      <li class="nav-item">
+        <a href="/" class="nav-link">Home</a>
+      </li>
+      <li class="nav-item">
+        <a href="/about" class="nav-link">Notices</a>
+      </li>
+      <li class="nav-item">
+        <a href="/services" class="nav-link">Sermon Notes</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<style>
+  .nav-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .navbar {
+    background-color: #1a1a1a;
+    padding: 1rem 2rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    max-width: 420px;
+    width: 100%;
+  }
+  
+  .nav-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-link {
+    color: #e0e0e0;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    transition: color 0.3s ease, background-color 0.3s ease;
+    border-radius: 8px;
+  }
+  
+  .nav-link:hover {
+    color: #ffffff;
+    background-color: #007BFF;
+    text-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+</style>
